@@ -1,0 +1,4 @@
+# Project exclude paths
+/cmake-build-debug/
+/cmake-build-debug_remote/
+/cmake-build-release/
